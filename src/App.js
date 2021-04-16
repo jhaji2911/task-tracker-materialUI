@@ -10,19 +10,19 @@ const App = () => {
     {
         id:1,
         text:"Buy new Phone",
-        day:"April 25th at 4:30pm",
+        day:"Monday 4:30pm",
         reminder:true,
     },
     {
         id:2,
         text:"Go out for Walk",
-        day:"April 22nd at 6:30pm",
+        day:"Tuesday 6:30pm",
         reminder:true,
     },
     {
         id:3,
         text:"Take some rest ",
-        day:"April 21st at 2:30pm",
+        day:"Saturday 2:30pm",
         reminder:false,
     }
 ])
